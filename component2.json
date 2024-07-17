@@ -1,0 +1,2266 @@
+{"case-fan": [
+    {
+      "name": "Lian Li Uni Fan SL-Infinity 3-Pack",
+      "price": 84,
+      "size": 120,
+      "color": "Black",
+      "rpm": "",
+      "airflow": "0,61.3",
+      "noise_level": "0,29",
+      "pwm": true
+    },
+    {
+      "name": "Corsair iCUE SP120 RGB ELITE 3-Pack",
+      "price": 59.99,
+      "size": 120,
+      "color": "Black / White",
+      "rpm": "400,1500",
+      "airflow": "",
+      "noise_level": "",
+      "pwm": true
+    },
+    {
+      "name": "Lian Li Uni Fan SL-Infinity 3-Pack",
+      "price": 83.9,
+      "size": 120,
+      "color": "White",
+      "rpm": "",
+      "airflow": "0,61.3",
+      "noise_level": "0,29",
+      "pwm": true
+    },
+    {
+      "name": "Noctua NF-A12x25 PWM chromax.black.swap",
+      "price": 34.95,
+      "size": 120,
+      "color": "Black",
+      "rpm": "450,2000",
+      "airflow": 60.09,
+      "noise_level": 22.6,
+      "pwm": true
+    },
+    {
+      "name": "Lian Li Uni Fan SL-Infinity",
+      "price": 29.99,
+      "size": 120,
+      "color": "Black",
+      "rpm": "",
+      "airflow": "0,61.3",
+      "noise_level": "0,29",
+      "pwm": true
+    },
+    {
+      "name": "Lian Li UNI FAN SL V2 3-Pack",
+      "price": 82.99,
+      "size": 120,
+      "color": "White / Silver",
+      "rpm": "250,2000",
+      "airflow": 64.5,
+      "noise_level": 29.2,
+      "pwm": true
+    },
+    {
+      "name": "ARCTIC P12 PST 5-Pack",
+      "price": 34.99,
+      "size": 120,
+      "color": "Black",
+      "rpm": "200,1800",
+      "airflow": 56.3,
+      "noise_level": 22.5,
+      "pwm": true
+    },
+    {
+      "name": "Lian Li UNI FAN SL-INF Reverse Blade",
+      "price": 35.72,
+      "size": 120,
+      "color": "White / Black",
+      "rpm": "200,2100",
+      "airflow": 63.6,
+      "noise_level": 32,
+      "pwm": true
+    },
+    {
+      "name": "Lian Li Uni Fan SL-Infinity",
+      "price": 26.99,
+      "size": 120,
+      "color": "White",
+      "rpm": "",
+      "airflow": "0,61.3",
+      "noise_level": "0,29",
+      "pwm": true
+    },
+    {
+      "name": "Corsair iCUE LINK QX120 RGB Starter Kit 3-Pack",
+      "price": 124.99,
+      "size": 120,
+      "color": "Black",
+      "rpm": "480,2400",
+      "airflow": "16.44,63.1",
+      "noise_level": "",
+      "pwm": true
+    },
+    {
+      "name": "Lian Li UNI FAN SL-INF Reverse Blade",
+      "price": 29.99,
+      "size": 120,
+      "color": "White",
+      "rpm": "200,2100",
+      "airflow": 63.6,
+      "noise_level": 32,
+      "pwm": true
+    },
+    {
+      "name": "Lian Li UNI FAN SL V2 3-Pack",
+      "price": 77.99,
+      "size": 120,
+      "color": "Black / Silver",
+      "rpm": "250,2000",
+      "airflow": 64.5,
+      "noise_level": 29.2,
+      "pwm": true
+    },
+    {
+      "name": "Thermalright TL-C12C X3 3-Pack",
+      "price": 11.9,
+      "size": 120,
+      "color": "Black",
+      "rpm": 1550,
+      "airflow": 66.17,
+      "noise_level": 25.6,
+      "pwm": true
+    },
+    {
+      "name": "NZXT F120 RGB 3-Pack",
+      "price": 77.33,
+      "size": 120,
+      "color": "White",
+      "rpm": "500,1800",
+      "airflow": "13.94,50.18",
+      "noise_level": "17.2,27.5",
+      "pwm": true
+    },
+    {
+      "name": "NZXT F120 RGB Core",
+      "price": "",
+      "size": 120,
+      "color": "White",
+      "rpm": "500,1800",
+      "airflow": 78.86,
+      "noise_level": 33.88,
+      "pwm": true
+    },
+    {
+      "name": "Noctua A14 PWM chromax.black.swap",
+      "price": 26.95,
+      "size": 140,
+      "color": "Multicolor",
+      "rpm": "300,1500",
+      "airflow": 82.52,
+      "noise_level": 24.6,
+      "pwm": true
+    },
+    {
+      "name": "ARCTIC P12",
+      "price": 8.99,
+      "size": 120,
+      "color": "Black",
+      "rpm": "200,1800",
+      "airflow": 56.3,
+      "noise_level": "",
+      "pwm": true
+    },
+    {
+      "name": "Thermalright TL-C12C-S X3 3-Pack",
+      "price": 13.59,
+      "size": 120,
+      "color": "Black",
+      "rpm": 1550,
+      "airflow": 66.17,
+      "noise_level": 25.6,
+      "pwm": true
+    },
+    {
+      "name": "Noctua A12x25 PWM",
+      "price": 32.95,
+      "size": 120,
+      "color": "Brown",
+      "rpm": "450,2000",
+      "airflow": "49.73,60.1",
+      "noise_level": "18.8,22.6",
+      "pwm": true
+    },
+    {
+      "name": "Corsair iCUE LINK QX120 RGB Starter Kit 3-Pack",
+      "price": 159.99,
+      "size": 120,
+      "color": "White",
+      "rpm": "480,2400",
+      "airflow": "16.44,63.1",
+      "noise_level": "",
+      "pwm": true
+    },
+    {
+      "name": "Deepcool FC120-3 IN 1 3-Pack",
+      "price": 34.99,
+      "size": 120,
+      "color": "Black",
+      "rpm": "500,1800",
+      "airflow": 61.91,
+      "noise_level": 28,
+      "pwm": true
+    },
+    {
+      "name": "Corsair ML120 PRO 3-Pack",
+      "price": 166.1,
+      "size": 120,
+      "color": "Black / White",
+      "rpm": "400,1600",
+      "airflow": 47.3,
+      "noise_level": 25,
+      "pwm": true
+    },
+    {
+      "name": "NZXT F120 RGB 3-Pack",
+      "price": 77.33,
+      "size": 120,
+      "color": "Black",
+      "rpm": "500,1800",
+      "airflow": "13.94,50.18",
+      "noise_level": "17.2,27.5",
+      "pwm": true
+    },
+    {
+      "name": "be quiet! Silent Wings Pro 4",
+      "price": 27.9,
+      "size": 120,
+      "color": "Black",
+      "rpm": 3000,
+      "airflow": 83.9,
+      "noise_level": 36.9,
+      "pwm": true
+    },
+    {
+      "name": "ARCTIC P12 Max",
+      "price": 9.99,
+      "size": 120,
+      "color": "Black",
+      "rpm": "200,3300",
+      "airflow": 81.04,
+      "noise_level": "",
+      "pwm": true
+    },
+    {
+      "name": "Lian Li Uni Fan SL-Infinity",
+      "price": 29.99,
+      "size": 140,
+      "color": "Black",
+      "rpm": "200,1600",
+      "airflow": 72.7,
+      "noise_level": 28,
+      "pwm": true
+    },
+    {
+      "name": "Thermalright TL-C12CW-S X3 3-Pack",
+      "price": 13.19,
+      "size": 120,
+      "color": "White",
+      "rpm": 1550,
+      "airflow": 66.17,
+      "noise_level": 25.6,
+      "pwm": true
+    },
+    {
+      "name": "Noctua P12 redux-1700 PWM",
+      "price": 15.95,
+      "size": 120,
+      "color": "Gray",
+      "rpm": "450,1700",
+      "airflow": 70.75,
+      "noise_level": 25.1,
+      "pwm": true
+    },
+    {
+      "name": "NZXT F120 RGB Core",
+      "price": "",
+      "size": 120,
+      "color": "Black",
+      "rpm": "500,1800",
+      "airflow": 78.86,
+      "noise_level": 33.88,
+      "pwm": true
+    },
+    {
+      "name": "Noctua A14 PWM",
+      "price": 23.95,
+      "size": 140,
+      "color": "Brown",
+      "rpm": "300,1500",
+      "airflow": "68,82.5",
+      "noise_level": "19.2,24.6",
+      "pwm": true
+    }
+  ],
+
+  "case" : [
+    {
+      "name": "Corsair 4000D Airflow",
+      "price": 104.99,
+      "type": "ATX Mid Tower",
+      "color": "Black",
+      "psu": "",
+      "side_panel": "Tinted Tempered Glass",
+      "external_volume": 48.6,
+      "internal_35_bays": 2
+    },
+    {
+      "name": "NZXT H5 Flow",
+      "price": 94.99,
+      "type": "ATX Mid Tower",
+      "color": "Black",
+      "psu": "",
+      "side_panel": "Tempered Glass",
+      "external_volume": 47,
+      "internal_35_bays": 1
+    },
+    {
+      "name": "NZXT H9 Flow",
+      "price": 159.99,
+      "type": "ATX Mid Tower",
+      "color": "White",
+      "psu": "",
+      "side_panel": "Tempered Glass",
+      "external_volume": 66.9,
+      "internal_35_bays": 2
+    },
+    {
+      "name": "NZXT H9 Flow",
+      "price": 154.99,
+      "type": "ATX Mid Tower",
+      "color": "Black",
+      "psu": "",
+      "side_panel": "Tempered Glass",
+      "external_volume": 66.9,
+      "internal_35_bays": 2
+    },
+    {
+      "name": "Montech AIR 903 MAX",
+      "price": 75,
+      "type": "ATX Mid Tower",
+      "color": "Black",
+      "psu": "",
+      "side_panel": "Tempered Glass",
+      "external_volume": 54.2,
+      "internal_35_bays": 2
+    },
+    {
+      "name": "NZXT H6 Flow",
+      "price": 109.99,
+      "type": "ATX Mid Tower",
+      "color": "White",
+      "psu": "",
+      "side_panel": "Tempered Glass",
+      "external_volume": 51.8,
+      "internal_35_bays": 1
+    },
+    {
+      "name": "Cooler Master MasterBox",
+      "price": 46.98,
+      "type": "MicroATX Mini Tower",
+      "color": "Black",
+      "psu": "",
+      "side_panel": "Acrylic",
+      "external_volume": 33.6,
+      "internal_35_bays": 1
+    },
+    {
+      "name": "NZXT H6 Flow",
+      "price": 101.29,
+      "type": "ATX Mid Tower",
+      "color": "Black",
+      "psu": "",
+      "side_panel": "Tempered Glass",
+      "external_volume": 51.8,
+      "internal_35_bays": 1
+    },
+    {
+      "name": "Montech X3 Mesh",
+      "price": 64.98,
+      "type": "ATX Mid Tower",
+      "color": "Black",
+      "psu": "",
+      "side_panel": "Tempered Glass",
+      "external_volume": "",
+      "internal_35_bays": 2
+    },
+    {
+      "name": "Montech AIR 100 ARGB",
+      "price": "",
+      "type": "MicroATX Mid Tower",
+      "color": "Black",
+      "psu": "",
+      "side_panel": "Tempered Glass",
+      "external_volume": 36.1,
+      "internal_35_bays": 2
+    },
+    {
+      "name": "Lian Li O11 Vision",
+      "price": 138.94,
+      "type": "ATX Mid Tower",
+      "color": "White",
+      "psu": "",
+      "side_panel": "Tempered Glass",
+      "external_volume": 67.8,
+      "internal_35_bays": 2
+    },
+    {
+      "name": "Fractal Design North",
+      "price": 139.99,
+      "type": "ATX Mid Tower",
+      "color": "Black",
+      "psu": "",
+      "side_panel": "Tempered Glass",
+      "external_volume": 45.1,
+      "internal_35_bays": 2
+    },
+    {
+      "name": "Phanteks XT PRO",
+      "price": 49.99,
+      "type": "ATX Mid Tower",
+      "color": "Black",
+      "psu": "",
+      "side_panel": "Tempered Glass",
+      "external_volume": 51.8,
+      "internal_35_bays": 2
+    },
+    {
+      "name": "NZXT H6 Flow RGB",
+      "price": 132.99,
+      "type": "ATX Mid Tower",
+      "color": "White",
+      "psu": "",
+      "side_panel": "Tempered Glass",
+      "external_volume": 51.8,
+      "internal_35_bays": 1
+    },
+    {
+      "name": "Phanteks XT PRO ULTRA",
+      "price": 69.99,
+      "type": "ATX Mid Tower",
+      "color": "Black",
+      "psu": "",
+      "side_panel": "Tempered Glass",
+      "external_volume": 51.8,
+      "internal_35_bays": 2
+    },
+    {
+      "name": "Lian Li O11 Dynamic EVO",
+      "price": 249.22,
+      "type": "ATX Mid Tower",
+      "color": "White / Gray",
+      "psu": "",
+      "side_panel": "Tempered Glass",
+      "external_volume": 60.8,
+      "internal_35_bays": 6
+    },
+    {
+      "name": "Lian Li LANCOOL 216",
+      "price": 99.99,
+      "type": "ATX Mid Tower",
+      "color": "Black",
+      "psu": "",
+      "side_panel": "Tempered Glass",
+      "external_volume": 55.6,
+      "internal_35_bays": 2
+    },
+    {
+      "name": "Deepcool CH370",
+      "price": 59.41,
+      "type": "MicroATX Mid Tower",
+      "color": "Black",
+      "psu": "",
+      "side_panel": "Tempered Glass",
+      "external_volume": 38.3,
+      "internal_35_bays": 2
+    },
+    {
+      "name": "Silverstone ALTA F2",
+      "price": 999.99,
+      "type": "ATX Full Tower",
+      "color": "Black",
+      "psu": "",
+      "side_panel": "Tempered Glass",
+      "external_volume": 98.9,
+      "internal_35_bays": 8
+    },
+    {
+      "name": "Deepcool CC560 V2",
+      "price": 59.99,
+      "type": "ATX Mid Tower",
+      "color": "Black",
+      "psu": "",
+      "side_panel": "Tempered Glass",
+      "external_volume": 44.9,
+      "internal_35_bays": 2
+    },
+    {
+      "name": "Fractal Design Terra",
+      "price": 179.97,
+      "type": "Mini ITX Desktop",
+      "color": "Black / Brown",
+      "psu": "",
+      "side_panel": "Mesh",
+      "external_volume": 11.4,
+      "internal_35_bays": 0
+    },
+    {
+      "name": "NZXT H5 Flow",
+      "price": 93.99,
+      "type": "ATX Mid Tower",
+      "color": "White",
+      "psu": "",
+      "side_panel": "Tempered Glass",
+      "external_volume": 47,
+      "internal_35_bays": 1
+    },
+    {
+      "name": "Deepcool MATREXX 40",
+      "price": 46.98,
+      "type": "MicroATX Mini Tower",
+      "color": "Black",
+      "psu": "",
+      "side_panel": "Tempered Glass",
+      "external_volume": "",
+      "internal_35_bays": 2
+    },
+    {
+      "name": "NZXT H6 Flow RGB",
+      "price": 134.99,
+      "type": "ATX Mid Tower",
+      "color": "Black",
+      "psu": "",
+      "side_panel": "Tempered Glass",
+      "external_volume": 51.8,
+      "internal_35_bays": 1
+    },
+    {
+      "name": "HYTE Y70 Touch",
+      "price": 359.99,
+      "type": "ATX Mid Tower",
+      "color": "White",
+      "psu": "",
+      "side_panel": "Tempered Glass",
+      "external_volume": 70.7,
+      "internal_35_bays": 2
+    },
+    {
+      "name": "Lian Li O11 Vision",
+      "price": 129.99,
+      "type": "ATX Mid Tower",
+      "color": "Black",
+      "psu": "",
+      "side_panel": "Tempered Glass",
+      "external_volume": 67.8,
+      "internal_35_bays": 2
+    },
+    {
+      "name": "Montech AIR 903 BASE",
+      "price": 65,
+      "type": "ATX Mid Tower",
+      "color": "Black",
+      "psu": "",
+      "side_panel": "Tempered Glass",
+      "external_volume": 54.2,
+      "internal_35_bays": 2
+    },
+    {
+      "name": "Corsair 3000D AIRFLOW",
+      "price": 74.98,
+      "type": "ATX Mid Tower",
+      "color": "Black",
+      "psu": "",
+      "side_panel": "Tempered Glass",
+      "external_volume": 49.5,
+      "internal_35_bays": 2
+    },
+    {
+      "name": "Fractal Design Pop Air RGB",
+      "price": 89.99,
+      "type": "ATX Mid Tower",
+      "color": "Black",
+      "psu": "",
+      "side_panel": "Tempered Glass",
+      "external_volume": 46.2,
+      "internal_35_bays": 2
+    }
+  ],
+
+  "cpu-cooler" : [
+    {
+      "name": "Thermalright Peerless Assassin 120 SE",
+      "price": 33.9,
+      "rpm": 1550,
+      "noise_level": 25.6,
+      "color": "Black",
+      "size": ""
+    },
+    {
+      "name": "NZXT Kraken Elite 360 RGB",
+      "price": 273.99,
+      "rpm": "500,1800",
+      "noise_level": "17.9,30.6",
+      "color": "White",
+      "size": 360
+    },
+    {
+      "name": "Deepcool GAMMAXX AG400 ARGB",
+      "price": 29.99,
+      "rpm": "500,2000",
+      "noise_level": 31.6,
+      "color": "Black",
+      "size": ""
+    },
+    {
+      "name": "Corsair iCUE H150i ELITE CAPELLIX XT",
+      "price": 189.99,
+      "rpm": "550,2100",
+      "noise_level": "5,34.1",
+      "color": "Black",
+      "size": 360
+    },
+    {
+      "name": "Cooler Master MASTERLIQUID ML240L RGB V2",
+      "price": 99.99,
+      "rpm": "650,1800",
+      "noise_level": "6,27",
+      "color": "Black",
+      "size": 240
+    },
+    {
+      "name": "Noctua NH-D15 chromax.black",
+      "price": 119.95,
+      "rpm": "300,1500",
+      "noise_level": "19.2,24.6",
+      "color": "Black",
+      "size": ""
+    },
+    {
+      "name": "NZXT Kraken 240",
+      "price": 120.99,
+      "rpm": "500,1800",
+      "noise_level": "17.9,30.6",
+      "color": "Black",
+      "size": 240
+    },
+    {
+      "name": "Thermalright Phantom Spirit 120 SE",
+      "price": 35.9,
+      "rpm": 1500,
+      "noise_level": 25.6,
+      "color": "Black / Silver",
+      "size": ""
+    },
+    {
+      "name": "Deepcool AK620 ZERO DARK",
+      "price": 61.98,
+      "rpm": "500,1850",
+      "noise_level": 28,
+      "color": "Black",
+      "size": ""
+    },
+    {
+      "name": "ARCTIC Liquid Freezer III",
+      "price": 116.99,
+      "rpm": "200,1800",
+      "noise_level": "",
+      "color": "Black",
+      "size": 360
+    },
+    {
+      "name": "Cooler Master Hyper 212 Black Edition",
+      "price": 29.99,
+      "rpm": "650,2000",
+      "noise_level": "6.5,26",
+      "color": "Black",
+      "size": ""
+    },
+    {
+      "name": "NZXT Kraken Elite 360 RGB",
+      "price": 275.99,
+      "rpm": "500,1800",
+      "noise_level": "17.9,30.6",
+      "color": "Black",
+      "size": 360
+    },
+    {
+      "name": "Deepcool LS720 SE WH",
+      "price": 97.99,
+      "rpm": "500,2250",
+      "noise_level": "28.2,32.9",
+      "color": "White",
+      "size": 360
+    },
+    {
+      "name": "Thermalright Assassin X 120 Refined SE",
+      "price": 17.89,
+      "rpm": 1550,
+      "noise_level": 25.6,
+      "color": "Black / Silver",
+      "size": ""
+    },
+    {
+      "name": "Deepcool LS720 SE",
+      "price": 92.18,
+      "rpm": "500,2250",
+      "noise_level": "28.2,32.9",
+      "color": "Black",
+      "size": 360
+    },
+    {
+      "name": "Thermalright Peerless Assassin 120 SE WHITE ARGB",
+      "price": 36.99,
+      "rpm": 1550,
+      "noise_level": 25.6,
+      "color": "White",
+      "size": ""
+    },
+    {
+      "name": "Noctua NH-D15",
+      "price": 109.95,
+      "rpm": "300,1500",
+      "noise_level": "19.2,24.6",
+      "color": "",
+      "size": ""
+    },
+    {
+      "name": "Corsair iCUE H100x RGB ELITE",
+      "price": 99.99,
+      "rpm": 1500,
+      "noise_level": "7,28",
+      "color": "Black",
+      "size": 240
+    },
+    {
+      "name": "Thermalright Phantom Spirit 120 SE ARGB",
+      "price": 36.9,
+      "rpm": 1500,
+      "noise_level": 25.6,
+      "color": "Black / Silver",
+      "size": ""
+    },
+    {
+      "name": "Corsair iCUE H100i RGB ELITE",
+      "price": 119.99,
+      "rpm": "400,1850",
+      "noise_level": "5,28.9",
+      "color": "Black",
+      "size": 240
+    },
+    {
+      "name": "Deepcool AK400",
+      "price": 33.49,
+      "rpm": "500,1850",
+      "noise_level": 29,
+      "color": "Black / Silver",
+      "size": ""
+    },
+    {
+      "name": "ID-COOLING SE-214-XT",
+      "price": 17.98,
+      "rpm": "500,1500",
+      "noise_level": "13.8,30.5",
+      "color": "Black",
+      "size": ""
+    },
+    {
+      "name": "ARCTIC Liquid Freezer III",
+      "price": 99.99,
+      "rpm": "200,1800",
+      "noise_level": "",
+      "color": "Black",
+      "size": 240
+    },
+    {
+      "name": "Corsair iCUE H150i ELITE LCD XT",
+      "price": 249.99,
+      "rpm": "550,2100",
+      "noise_level": "5,34.1",
+      "color": "Black",
+      "size": 360
+    },
+    {
+      "name": "Noctua NH-U12S chromax.black",
+      "price": 89.95,
+      "rpm": "300,1500",
+      "noise_level": "18.6,22.4",
+      "color": "Black",
+      "size": ""
+    },
+    {
+      "name": "NZXT Kraken 360",
+      "price": "",
+      "rpm": "500,1800",
+      "noise_level": "17.9,30.6",
+      "color": "Black",
+      "size": 360
+    },
+    {
+      "name": "NZXT Kraken 240 RGB",
+      "price": 172.99,
+      "rpm": "500,1800",
+      "noise_level": "17.9,30.6",
+      "color": "White",
+      "size": 240
+    },
+    {
+      "name": "be quiet! Pure Rock 2 Black",
+      "price": 37.9,
+      "rpm": 1500,
+      "noise_level": "19.1,26.8",
+      "color": "Black",
+      "size": ""
+    },
+    {
+      "name": "Deepcool LT720",
+      "price": 106.24,
+      "rpm": "500,2250",
+      "noise_level": 32.9,
+      "color": "Black / Gray",
+      "size": 360
+    },
+    {
+      "name": "NZXT Kraken Elite 360",
+      "price": 266.99,
+      "rpm": "500,1800",
+      "noise_level": "17.9,30.6",
+      "color": "Black",
+      "size": 360
+    }
+  ],
+
+  "cpu" : [
+    {
+      "name": "AMD Ryzen 7 7800X3D",
+      "price": 339,
+      "core_count": 8,
+      "core_clock": 4.2,
+      "boost_clock": 5,
+      "tdp": 120,
+      "graphics": "Radeon",
+      "smt": true
+    },
+    {
+      "name": "AMD Ryzen 5 7600X",
+      "price": 204.99,
+      "core_count": 6,
+      "core_clock": 4.7,
+      "boost_clock": 5.3,
+      "tdp": 105,
+      "graphics": "Radeon",
+      "smt": true
+    },
+    {
+      "name": "AMD Ryzen 5 5600X",
+      "price": 144.31,
+      "core_count": 6,
+      "core_clock": 3.7,
+      "boost_clock": 4.6,
+      "tdp": 65,
+      "graphics": "",
+      "smt": true
+    },
+    {
+      "name": "AMD Ryzen 5 7600",
+      "price": 185,
+      "core_count": 6,
+      "core_clock": 3.8,
+      "boost_clock": 5.1,
+      "tdp": 65,
+      "graphics": "Radeon",
+      "smt": true
+    },
+    {
+      "name": "Intel Core i9-14900K",
+      "price": 544.99,
+      "core_count": 24,
+      "core_clock": 3.2,
+      "boost_clock": 6,
+      "tdp": 125,
+      "graphics": "Intel UHD Graphics 770",
+      "smt": true
+    },
+    {
+      "name": "Intel Core i7-14700K",
+      "price": 399.99,
+      "core_count": 20,
+      "core_clock": 3.4,
+      "boost_clock": 5.6,
+      "tdp": 125,
+      "graphics": "Intel UHD Graphics 770",
+      "smt": true
+    },
+    {
+      "name": "Intel Core i5-12400F",
+      "price": 128,
+      "core_count": 6,
+      "core_clock": 2.5,
+      "boost_clock": 4.4,
+      "tdp": 65,
+      "graphics": "",
+      "smt": true
+    },
+    {
+      "name": "AMD Ryzen 5 3600",
+      "price": 84,
+      "core_count": 6,
+      "core_clock": 3.6,
+      "boost_clock": 4.2,
+      "tdp": 65,
+      "graphics": "",
+      "smt": true
+    },
+    {
+      "name": "AMD Ryzen 7 7700X",
+      "price": 288.81,
+      "core_count": 8,
+      "core_clock": 4.5,
+      "boost_clock": 5.4,
+      "tdp": 105,
+      "graphics": "Radeon",
+      "smt": true
+    },
+    {
+      "name": "AMD Ryzen 9 7950X3D",
+      "price": 564,
+      "core_count": 16,
+      "core_clock": 4.2,
+      "boost_clock": 5.7,
+      "tdp": 120,
+      "graphics": "Radeon",
+      "smt": true
+    },
+    {
+      "name": "AMD Ryzen 5 5600",
+      "price": 129.99,
+      "core_count": 6,
+      "core_clock": 3.5,
+      "boost_clock": 4.4,
+      "tdp": 65,
+      "graphics": "",
+      "smt": true
+    },
+    {
+      "name": "AMD Ryzen 7 5800X",
+      "price": 202,
+      "core_count": 8,
+      "core_clock": 3.8,
+      "boost_clock": 4.7,
+      "tdp": 105,
+      "graphics": "",
+      "smt": true
+    },
+    {
+      "name": "Intel Core i5-12600KF",
+      "price": 159.13,
+      "core_count": 10,
+      "core_clock": 3.7,
+      "boost_clock": 4.9,
+      "tdp": 125,
+      "graphics": "",
+      "smt": true
+    },
+    {
+      "name": "AMD Ryzen 5 5500",
+      "price": 91.53,
+      "core_count": 6,
+      "core_clock": 3.6,
+      "boost_clock": 4.2,
+      "tdp": 65,
+      "graphics": "",
+      "smt": true
+    },
+    {
+      "name": "Intel Core i7-12700K",
+      "price": 248,
+      "core_count": 12,
+      "core_clock": 3.6,
+      "boost_clock": 5,
+      "tdp": 125,
+      "graphics": "Intel UHD Graphics 770",
+      "smt": true
+    },
+    {
+      "name": "AMD Ryzen 7 5700X",
+      "price": 171.89,
+      "core_count": 8,
+      "core_clock": 3.4,
+      "boost_clock": 4.6,
+      "tdp": 65,
+      "graphics": "",
+      "smt": true
+    },
+    {
+      "name": "Intel Core i7-13700K",
+      "price": 359,
+      "core_count": 16,
+      "core_clock": 3.4,
+      "boost_clock": 5.4,
+      "tdp": 125,
+      "graphics": "Intel UHD Graphics 770",
+      "smt": true
+    },
+    {
+      "name": "Intel Core i5-12600K",
+      "price": 175.74,
+      "core_count": 10,
+      "core_clock": 3.7,
+      "boost_clock": 4.9,
+      "tdp": 125,
+      "graphics": "Intel UHD Graphics 770",
+      "smt": true
+    },
+    {
+      "name": "AMD Ryzen 7 5800X3D",
+      "price": 261.18,
+      "core_count": 8,
+      "core_clock": 3.4,
+      "boost_clock": 4.5,
+      "tdp": 105,
+      "graphics": "",
+      "smt": true
+    },
+    {
+      "name": "AMD Ryzen 9 7900X",
+      "price": 396.58,
+      "core_count": 12,
+      "core_clock": 4.7,
+      "boost_clock": 5.6,
+      "tdp": 170,
+      "graphics": "Radeon",
+      "smt": true
+    },
+    {
+      "name": "AMD Ryzen 5 5600G",
+      "price": 134.48,
+      "core_count": 6,
+      "core_clock": 3.9,
+      "boost_clock": 4.4,
+      "tdp": 65,
+      "graphics": "Radeon Vega 7",
+      "smt": true
+    },
+    {
+      "name": "AMD Ryzen 9 5900X",
+      "price": 277.99,
+      "core_count": 12,
+      "core_clock": 3.7,
+      "boost_clock": 4.8,
+      "tdp": 105,
+      "graphics": "",
+      "smt": true
+    },
+    {
+      "name": "Intel Core i5-13600K",
+      "price": 283.99,
+      "core_count": 14,
+      "core_clock": 3.5,
+      "boost_clock": 5.1,
+      "tdp": 125,
+      "graphics": "Intel UHD Graphics 770",
+      "smt": true
+    },
+    {
+      "name": "Intel Core i9-14900KS",
+      "price": 652.95,
+      "core_count": 24,
+      "core_clock": 3.2,
+      "boost_clock": 6.2,
+      "tdp": 150,
+      "graphics": "Intel UHD Graphics 770",
+      "smt": true
+    },
+    {
+      "name": "Intel Core i7-12700KF",
+      "price": 223.95,
+      "core_count": 12,
+      "core_clock": 3.6,
+      "boost_clock": 5,
+      "tdp": 125,
+      "graphics": "",
+      "smt": true
+    },
+    {
+      "name": "Intel Core i3-12100F",
+      "price": 94.98,
+      "core_count": 4,
+      "core_clock": 3.3,
+      "boost_clock": 4.3,
+      "tdp": 58,
+      "graphics": "",
+      "smt": true
+    },
+    {
+      "name": "Intel Core i5-13600KF",
+      "price": 249.99,
+      "core_count": 14,
+      "core_clock": 3.5,
+      "boost_clock": 5.1,
+      "tdp": 125,
+      "graphics": "",
+      "smt": true
+    },
+    {
+      "name": "AMD Ryzen 7 7700",
+      "price": 281.63,
+      "core_count": 8,
+      "core_clock": 3.6,
+      "boost_clock": 5.3,
+      "tdp": 65,
+      "graphics": "Radeon",
+      "smt": true
+    },
+    {
+      "name": "AMD Threadripper 3990X",
+      "price": 4255,
+      "core_count": 64,
+      "core_clock": 2.9,
+      "boost_clock": 4.3,
+      "tdp": 280,
+      "graphics": "",
+      "smt": true
+    },
+    {
+      "name": "Intel Core i9-13900K",
+      "price": 486.59,
+      "core_count": 24,
+      "core_clock": 3,
+      "boost_clock": 5.8,
+      "tdp": 125,
+      "graphics": "Intel UHD Graphics 770",
+      "smt": true
+    }
+  ],
+
+  "externalharddrive" : [
+    {
+      "name": "Apricorn Aegis Fortress L3",
+      "price": 12999,
+      "type": "Portable",
+      "interface": "USB Type-A 3.2 Gen 1",
+      "capacity": 20000,
+      "price_per_gb": 0.65,
+      "color": "Black"
+    },
+    {
+      "name": "Western Digital My Book Duo",
+      "price": 7000,
+      "type": "Desktop",
+      "interface": "USB Type-A 3.2 Gen 1",
+      "capacity": 44000,
+      "price_per_gb": 0.027,
+      "color": "Black"
+    },
+    {
+      "name": "Apricorn Padlock DT FIPS",
+      "price": 6000,
+      "type": "Desktop",
+      "interface": "USB Type-A 3.2 Gen 1",
+      "capacity": 10000,
+      "price_per_gb": 0.066,
+      "color": "Black"
+    },
+    {
+      "name": "Apricorn Padlock DT FIPS",
+      "price": 5910,
+      "type": "Desktop",
+      "interface": "USB Type-A 3.2 Gen 1",
+      "capacity": 22000,
+      "price_per_gb": 0.053,
+      "color": "Black"
+    },
+    {
+      "name": "Western Digital ELEMENTS",
+      "price": 3999,
+      "type": "Portable",
+      "interface": "USB Type-A 3.2 Gen 1",
+      "capacity": 1000,
+      "price_per_gb": 0.065,
+      "color": "white"
+    },
+    {
+      "name": "Western Digital My Book Duo",
+      "price": 6999,
+      "type": "Desktop",
+      "interface": "USB Type-A 3.2 Gen 1",
+      "capacity": 36000,
+      "price_per_gb": 0.029,
+      "color": "Black"
+    },
+    {
+      "name": "Apricorn Aegis Fortress",
+      "price": 2999,
+      "type": "Portable",
+      "interface": "USB Type-A 3.2 Gen 1",
+      "capacity": 1000,
+      "price_per_gb": 0.384,
+      "color": "Black"
+    },
+    {
+      "name": "Western Digital WD_BLACK P10",
+      "price": 5999,
+      "type": "Portable",
+      "interface": "USB Type-A 3.2 Gen 1",
+      "capacity": 5000,
+      "price_per_gb": 0.027,
+      "color": "Black"
+    },
+    {
+      "name": "Samsung T5 EVO Portable",
+      "price": 5999,
+      "type": "Portable",
+      "interface": "USB Type-C 3.2 Gen 1",
+      "capacity": 8000,
+      "price_per_gb": 0.075,
+      "color": "Black"
+    },
+    {
+      "name": "Samsung T9 Portable",
+      "price": 3599,
+      "type": "Portable",
+      "interface": "USB Type-C 3.2 Gen 2x2",
+      "capacity": 4000,
+      "price_per_gb": 0.09,
+      "color": "Black"
+    },
+    {
+      "name": "Sabrent Rocket XTRM-Q",
+      "price": 5999,
+      "type": "Desktop",
+      "interface": "USB Type-C 3.2 Gen 2",
+      "capacity": 16000,
+      "price_per_gb": "",
+      "color": "white"
+    },
+    {
+      "name": "Western Digital My Passport",
+      "price": 1066,
+      "type": "Portable",
+      "interface": "USB Type-A 3.2 Gen 1",
+      "capacity": 4000,
+      "price_per_gb": 0.027,
+      "color": "Black"
+    },
+    {
+      "name": "Western Digital ELEMENTS",
+      "price": 1599,
+      "type": "Desktop",
+      "interface": "USB Type-A 3.2 Gen 1",
+      "capacity": 8000,
+      "price_per_gb": 0.02,
+      "color": "Black"
+    },
+    {
+      "name": "Seagate One Touch",
+      "price": 8598,
+      "type": "Portable",
+      "interface": "USB Type-A 3.2 Gen 1",
+      "capacity": 2000,
+      "price_per_gb": 0.043,
+      "color": "Black"
+    },
+    {
+      "name": "Western Digital easystore",
+      "price": 2799,
+      "type": "Desktop",
+      "interface": "USB Type-A 3.2 Gen 1",
+      "capacity": 14000,
+      "price_per_gb": 0.02,
+      "color": "Black"
+    },
+    {
+      "name": "Verbatim Vx460",
+      "price": 3331,
+      "type": "Portable",
+      "interface": "USB Type-A 3.2 Gen 1",
+      "capacity": 128,
+      "price_per_gb": 0.26,
+      "color": "Black"
+    },
+    {
+      "name": "Samsung T7 Shield",
+      "price": 3199,
+      "type": "Portable",
+      "interface": "USB Type-C 3.2 Gen 2",
+      "capacity": 4000,
+      "price_per_gb": 0.08,
+      "color": "Black"
+    },
+    {
+      "name": "Apricorn Aegis Fortress",
+      "price": 2769,
+      "type": "Portable",
+      "interface": "USB Type-A 3.2 Gen 1",
+      "capacity": 8000,
+      "price_per_gb": 0.346,
+      "color": "Black"
+    },
+    {
+      "name": "Western Digital My Passport",
+      "price": 6975,
+      "type": "Portable",
+      "interface": "USB Type-A 3.2 Gen 1",
+      "capacity": 2000,
+      "price_per_gb": 0.035,
+      "color": "Black"
+    },
+    {
+      "name": "SanDisk Extreme Portable V2",
+      "price": 2999,
+      "type": "Portable",
+      "interface": "USB Type-C 3.2 Gen 1",
+      "capacity": 4000,
+      "price_per_gb": 0.075,
+      "color": "Black / Orange"
+    },
+    {
+      "name": "Seagate One Touch",
+      "price": 4999,
+      "type": "Desktop",
+      "interface": "USB Type-A 3.2 Gen 1",
+      "capacity": 18000,
+      "price_per_gb": 0.028,
+      "color": "Black"
+    },
+    {
+      "name": "Western Digital WD_BLACK P10",
+      "price": 8000,
+      "type": "Portable",
+      "interface": "USB Type-A 3.2 Gen 1",
+      "capacity": 2000,
+      "price_per_gb": 0.04,
+      "color": "Black"
+    },
+    {
+      "name": "Western Digital My Passport",
+      "price": 1219,
+      "type": "Portable",
+      "interface": "USB Type-A 3.2 Gen 1",
+      "capacity": 5000,
+      "price_per_gb": 0.024,
+      "color": "Black"
+    },
+    {
+      "name": "Crucial X10 Pro",
+      "price": 2849,
+      "type": "Portable",
+      "interface": "USB Type-C 3.2 Gen 2x2",
+      "capacity": 4000,
+      "price_per_gb": 0.071,
+      "color": "Black"
+    },
+    {
+      "name": "Western Digital My Passport",
+      "price": 5975,
+      "type": "Portable",
+      "interface": "USB Type-A 3.2 Gen 1",
+      "capacity": 1000,
+      "price_per_gb": 0.06,
+      "color": "Black"
+    },
+    {
+      "name": "SanDisk Extreme Portable V2",
+      "price": 1099,
+      "type": "Portable",
+      "interface": "USB Type-C 3.2 Gen 1",
+      "capacity": 1000,
+      "price_per_gb": 0.11,
+      "color": "Black / Orange"
+    },
+    {
+      "name": "Western Digital easystore",
+      "price": 3299,
+      "type": "Desktop",
+      "interface": "USB Type-A 2.0",
+      "capacity": 18000,
+      "price_per_gb": 0.018,
+      "color": "Black"
+    },
+    {
+      "name": "Seagate Backup Plus Portable",
+      "price": 9300,
+      "type": "Portable",
+      "interface": "USB Type-A 3.2 Gen 1",
+      "capacity": 4000,
+      "price_per_gb": 0.023,
+      "color": "Black"
+    },
+    {
+      "name": "Seagate Backup Plus Slim",
+      "price": 2999,
+      "type": "Portable",
+      "interface": "USB Type-A 3.2 Gen 1",
+      "capacity": 1000,
+      "price_per_gb": "",
+      "color": "Black"
+    },
+    {
+      "name": "Seagate One Touch",
+      "price": 5499,
+      "type": "Portable",
+      "interface": "USB Type-A 3.2 Gen 1",
+      "capacity": 1000,
+      "price_per_gb": 0.055,
+      "color": "Black"
+    }
+  ],
+
+  "memory" : [
+    {
+      "name": "Corsair Vengeance LPX 16 GB",
+      "price": 38.99,
+      "speed": "4,3200",
+      "modules": "2,8",
+      "price_per_gb": 2.437,
+      "color": "Black / Yellow",
+      "first_word_latency": 10,
+      "cas_latency": 16
+    },
+    {
+      "name": "Corsair Vengeance 32 GB",
+      "price": 113.99,
+      "speed": "5,5600",
+      "modules": "2,16",
+      "price_per_gb": 3.562,
+      "color": "Black",
+      "first_word_latency": 12.857,
+      "cas_latency": 36
+    },
+    {
+      "name": "G.Skill Trident Z5 RGB 32 GB",
+      "price": 117.99,
+      "speed": "5,6000",
+      "modules": "2,16",
+      "price_per_gb": 3.687,
+      "color": "Black",
+      "first_word_latency": 12,
+      "cas_latency": 36
+    },
+    {
+      "name": "Corsair Vengeance 32 GB",
+      "price": 114.99,
+      "speed": "5,6000",
+      "modules": "2,16",
+      "price_per_gb": 3.593,
+      "color": "Black / Gray",
+      "first_word_latency": 10,
+      "cas_latency": 30
+    },
+    {
+      "name": "Corsair Vengeance RGB Pro 32 GB",
+      "price": 94.99,
+      "speed": "4,3600",
+      "modules": "2,16",
+      "price_per_gb": 2.968,
+      "color": "Black",
+      "first_word_latency": 10,
+      "cas_latency": 18
+    },
+    {
+      "name": "G.Skill Trident Z5 RGB 64 GB",
+      "price": 217.99,
+      "speed": "5,6400",
+      "modules": "2,32",
+      "price_per_gb": 3.406,
+      "color": "Black / Silver",
+      "first_word_latency": 10,
+      "cas_latency": 32
+    },
+    {
+      "name": "Corsair Vengeance LPX 32 GB",
+      "price": 69.98,
+      "speed": "4,3600",
+      "modules": "2,16",
+      "price_per_gb": 2.187,
+      "color": "Black / Yellow",
+      "first_word_latency": 10,
+      "cas_latency": 18
+    },
+    {
+      "name": "Corsair Vengeance RGB 32 GB",
+      "price": 127.99,
+      "speed": "5,6000",
+      "modules": "2,16",
+      "price_per_gb": 4,
+      "color": "White",
+      "first_word_latency": 12,
+      "cas_latency": 36
+    },
+    {
+      "name": "TEAMGROUP T-Force Delta RGB 32 GB",
+      "price": 106.99,
+      "speed": "5,6000",
+      "modules": "2,16",
+      "price_per_gb": 3.343,
+      "color": "White",
+      "first_word_latency": 10,
+      "cas_latency": 30
+    },
+    {
+      "name": "TEAMGROUP T-Force Delta RGB 32 GB",
+      "price": 106.99,
+      "speed": "5,6000",
+      "modules": "2,16",
+      "price_per_gb": 3.343,
+      "color": "Black",
+      "first_word_latency": 10,
+      "cas_latency": 30
+    },
+    {
+      "name": "Corsair Vengeance RGB Pro 16 GB",
+      "price": 55.99,
+      "speed": "4,3200",
+      "modules": "2,8",
+      "price_per_gb": 3.499,
+      "color": "Black",
+      "first_word_latency": 10,
+      "cas_latency": 16
+    },
+    {
+      "name": "Corsair Vengeance 16 GB",
+      "price": 74.98,
+      "speed": "5,5200",
+      "modules": "2,8",
+      "price_per_gb": 4.686,
+      "color": "Black",
+      "first_word_latency": 15.385,
+      "cas_latency": 40
+    },
+    {
+      "name": "G.Skill Flare X5 32 GB",
+      "price": 102.99,
+      "speed": "5,6000",
+      "modules": "2,16",
+      "price_per_gb": 3.218,
+      "color": "Black",
+      "first_word_latency": 12,
+      "cas_latency": 36
+    },
+    {
+      "name": "G.Skill Trident Z5 Neo RGB 32 GB",
+      "price": 112.99,
+      "speed": "5,6000",
+      "modules": "2,16",
+      "price_per_gb": 3.531,
+      "color": "Black",
+      "first_word_latency": 10,
+      "cas_latency": 30
+    },
+    {
+      "name": "Silicon Power GAMING 16 GB",
+      "price": 32.97,
+      "speed": "4,3200",
+      "modules": "2,8",
+      "price_per_gb": 2.061,
+      "color": "Black / Gray",
+      "first_word_latency": 10,
+      "cas_latency": 16
+    },
+    {
+      "name": "Corsair Vengeance 64 GB",
+      "price": 159.99,
+      "speed": "5,5200",
+      "modules": "2,32",
+      "price_per_gb": 2.5,
+      "color": "Black",
+      "first_word_latency": 15.385,
+      "cas_latency": 40
+    },
+    {
+      "name": "G.Skill Ripjaws V 16 GB",
+      "price": 3914.75,
+      "speed": "4,4800",
+      "modules": "2,8",
+      "price_per_gb": 244.672,
+      "color": "Black",
+      "first_word_latency": 7.083,
+      "cas_latency": 17
+    },
+    {
+      "name": "G.Skill Flare X5 32 GB",
+      "price": 104.99,
+      "speed": "5,6000",
+      "modules": "2,16",
+      "price_per_gb": 3.281,
+      "color": "Black",
+      "first_word_latency": 10,
+      "cas_latency": 30
+    },
+    {
+      "name": "TEAMGROUP T-Create Expert 32 GB",
+      "price": 97.99,
+      "speed": "5,6000",
+      "modules": "2,16",
+      "price_per_gb": 3.062,
+      "color": "Black",
+      "first_word_latency": 10,
+      "cas_latency": 30
+    },
+    {
+      "name": "G.Skill Ripjaws V 16 GB",
+      "price": 37,
+      "speed": "4,3200",
+      "modules": "2,8",
+      "price_per_gb": 2.312,
+      "color": "Black",
+      "first_word_latency": 10,
+      "cas_latency": 16
+    },
+    {
+      "name": "TEAMGROUP T-Force Vulcan Z 16 GB",
+      "price": 32.99,
+      "speed": "4,3200",
+      "modules": "2,8",
+      "price_per_gb": 2.062,
+      "color": "Black",
+      "first_word_latency": 10,
+      "cas_latency": 16
+    },
+    {
+      "name": "Corsair Vengeance RGB 32 GB",
+      "price": 134.99,
+      "speed": "5,6000",
+      "modules": "2,16",
+      "price_per_gb": 4.218,
+      "color": "Black",
+      "first_word_latency": 13.333,
+      "cas_latency": 40
+    },
+    {
+      "name": "Corsair Vengeance RGB 32 GB",
+      "price": 109.99,
+      "speed": "5,6000",
+      "modules": "2,16",
+      "price_per_gb": 3.437,
+      "color": "Black",
+      "first_word_latency": 12,
+      "cas_latency": 36
+    },
+    {
+      "name": "Corsair Vengeance LPX 16 GB",
+      "price": 49.99,
+      "speed": "4,3600",
+      "modules": "2,8",
+      "price_per_gb": 3.124,
+      "color": "Black",
+      "first_word_latency": 10,
+      "cas_latency": 18
+    },
+    {
+      "name": "G.Skill Ripjaws V 32 GB",
+      "price": 66.98,
+      "speed": "4,3200",
+      "modules": "2,16",
+      "price_per_gb": 2.093,
+      "color": "Black",
+      "first_word_latency": 10,
+      "cas_latency": 16
+    },
+    {
+      "name": "Corsair Dominator Titanium 64 GB",
+      "price": 309.99,
+      "speed": "5,6600",
+      "modules": "2,32",
+      "price_per_gb": 4.844,
+      "color": "White",
+      "first_word_latency": 9.697,
+      "cas_latency": 32
+    },
+    {
+      "name": "G.Skill Flare X5 32 GB",
+      "price": 96.99,
+      "speed": "5,6000",
+      "modules": "2,16",
+      "price_per_gb": 3.031,
+      "color": "Black",
+      "first_word_latency": 10.667,
+      "cas_latency": 32
+    },
+    {
+      "name": "Corsair Vengeance LPX 32 GB",
+      "price": 66.98,
+      "speed": "4,3200",
+      "modules": "2,16",
+      "price_per_gb": 2.093,
+      "color": "Black / Yellow",
+      "first_word_latency": 10,
+      "cas_latency": 16
+    },
+    {
+      "name": "Corsair Vengeance 32 GB",
+      "price": 94.99,
+      "speed": "5,5200",
+      "modules": "2,16",
+      "price_per_gb": 2.968,
+      "color": "Black",
+      "first_word_latency": 15.385,
+      "cas_latency": 40
+    },
+    {
+      "name": "G.Skill Ripjaws S5 32 GB",
+      "price": 109.99,
+      "speed": "5,6000",
+      "modules": "2,16",
+      "price_per_gb": 3.437,
+      "color": "Black",
+      "first_word_latency": 10,
+      "cas_latency": 30
+    }
+  ],
+
+  "motherboard" : [
+    {
+      "name": "MSI B650 GAMING PLUS WIFI",
+      "price": 169.99,
+      "socket": "AM5",
+      "form_factor": "ATX",
+      "max_memory": 192,
+      "memory_slots": 4,
+      "color": "Black"
+    },
+    {
+      "name": "Asus ROG STRIX B650-A ",
+      "price": 199.99,
+      "socket": "AM5",
+      "form_factor": "ATX",
+      "max_memory": 192,
+      "memory_slots": 4,
+      "color": "Black / Silver"
+    },
+    {
+      "name": "MSI B760 GAMING PLUS WIFI",
+      "price": 159.99,
+      "socket": "LGA1700",
+      "form_factor": "ATX",
+      "max_memory": 192,
+      "memory_slots": 4,
+      "color": "Black / Silver"
+    },
+    {
+      "name": "MSI PRO Z790-A MAX WIFI",
+      "price": 239.99,
+      "socket": "LGA1700",
+      "form_factor": "ATX",
+      "max_memory": 192,
+      "memory_slots": 4,
+      "color": "Silver / Black"
+    },
+    {
+      "name": "MSI B550 GAMING GEN3",
+      "price": 99.99,
+      "socket": "AM4",
+      "form_factor": "ATX",
+      "max_memory": 128,
+      "memory_slots": 4,
+      "color": "Black"
+    },
+    {
+      "name": "MSI B450M-A PRO MAX II",
+      "price": 69.98,
+      "socket": "AM4",
+      "form_factor": "Micro ATX",
+      "max_memory": 64,
+      "memory_slots": 2,
+      "color": "Black"
+    },
+    {
+      "name": "MSI MAG B650 TOMAHAWK WIFI",
+      "price": 199.99,
+      "socket": "AM5",
+      "form_factor": "ATX",
+      "max_memory": 192,
+      "memory_slots": 4,
+      "color": "Black"
+    },
+    {
+      "name": "Gigabyte B650 GAMING X AX",
+      "price": 179.99,
+      "socket": "AM5",
+      "form_factor": "ATX",
+      "max_memory": 192,
+      "memory_slots": 4,
+      "color": "Black / Gray"
+    },
+    {
+      "name": "Asus PRIME B550M-A WIFI II",
+      "price": 104.99,
+      "socket": "AM4",
+      "form_factor": "Micro ATX",
+      "max_memory": 128,
+      "memory_slots": 4,
+      "color": "Blue / Silver"
+    },
+    {
+      "name": "ASRock B650M Pro RS WiFi",
+      "price": 149.99,
+      "socket": "AM5",
+      "form_factor": "Micro ATX",
+      "max_memory": 192,
+      "memory_slots": 4,
+      "color": "Black / Silver"
+    },
+    {
+      "name": "ASRock B660M Pro RS",
+      "price": 94.99,
+      "socket": "LGA1700",
+      "form_factor": "Micro ATX",
+      "max_memory": 128,
+      "memory_slots": 4,
+      "color": "Gray / Black"
+    },
+    {
+      "name": "MSI PRO B650M-P",
+      "price": 119.99,
+      "socket": "AM5",
+      "form_factor": "Micro ATX",
+      "max_memory": 192,
+      "memory_slots": 4,
+      "color": "Black / Silver"
+    },
+    {
+      "name": "Asus TUF GAMING Z790-PRO WIFI",
+      "price": 279.99,
+      "socket": "LGA1700",
+      "form_factor": "ATX",
+      "max_memory": 192,
+      "memory_slots": 4,
+      "color": "Black"
+    },
+    {
+      "name": "MSI MAG X670E TOMAHAWK WIFI",
+      "price": 259.99,
+      "socket": "AM5",
+      "form_factor": "ATX",
+      "max_memory": 192,
+      "memory_slots": 4,
+      "color": "Black"
+    },
+    {
+      "name": "MSI PRO Z790-P WIFI",
+      "price": 199.99,
+      "socket": "LGA1700",
+      "form_factor": "ATX",
+      "max_memory": 192,
+      "memory_slots": 4,
+      "color": "Black / Silver"
+    },
+    {
+      "name": "MSI MAG B550 TOMAHAWK MAX WIFI",
+      "price": 159.99,
+      "socket": "AM4",
+      "form_factor": "ATX",
+      "max_memory": 128,
+      "memory_slots": 4,
+      "color": "Silver / Black"
+    },
+    {
+      "name": "Asus ROG STRIX B550-F GAMING WIFI II",
+      "price": 189.99,
+      "socket": "AM4",
+      "form_factor": "ATX",
+      "max_memory": 128,
+      "memory_slots": 4,
+      "color": "Black / Red"
+    },
+    {
+      "name": "MSI PRO B650M-A WIFI",
+      "price": 156.99,
+      "socket": "AM5",
+      "form_factor": "Micro ATX",
+      "max_memory": 192,
+      "memory_slots": 4,
+      "color": "Black"
+    },
+    {
+      "name": "ASRock B650I Lightning Wifi",
+      "price": 199.99,
+      "socket": "AM5",
+      "form_factor": "Mini ITX",
+      "max_memory": 96,
+      "memory_slots": 2,
+      "color": "Black"
+    },
+    {
+      "name": "MSI B550M PRO-VDH WIFI",
+      "price": 99.99,
+      "socket": "AM4",
+      "form_factor": "Micro ATX",
+      "max_memory": 128,
+      "memory_slots": 4,
+      "color": "Black"
+    },
+    {
+      "name": "MSI PRO B650-S WIFI",
+      "price": 139.99,
+      "socket": "AM5",
+      "form_factor": "ATX",
+      "max_memory": 192,
+      "memory_slots": 4,
+      "color": "Black"
+    },
+    {
+      "name": "Gigabyte B650 EAGLE AX",
+      "price": 169.99,
+      "socket": "AM5",
+      "form_factor": "ATX",
+      "max_memory": 192,
+      "memory_slots": 4,
+      "color": "Gray / Black"
+    },
+    {
+      "name": "Asus ROG STRIX B650E-F GAMING WIFI",
+      "price": 259.99,
+      "socket": "AM5",
+      "form_factor": "ATX",
+      "max_memory": 192,
+      "memory_slots": 4,
+      "color": "Black"
+    },
+    {
+      "name": "Gigabyte B650 AORUS ELITE AX ICE",
+      "price": 229.99,
+      "socket": "AM5",
+      "form_factor": "ATX",
+      "max_memory": 192,
+      "memory_slots": 4,
+      "color": "Silver"
+    },
+    {
+      "name": "Asus ROG MAXIMUS Z790 DARK HERO",
+      "price": 579.99,
+      "socket": "LGA1700",
+      "form_factor": "ATX",
+      "max_memory": 192,
+      "memory_slots": 4,
+      "color": "Black"
+    },
+    {
+      "name": "Asus Prime B450M-A II",
+      "price": 69.98,
+      "socket": "AM4",
+      "form_factor": "Micro ATX",
+      "max_memory": 128,
+      "memory_slots": 4,
+      "color": ""
+    },
+    {
+      "name": "Gigabyte B650 AORUS ELITE AX",
+      "price": 199.99,
+      "socket": "AM5",
+      "form_factor": "ATX",
+      "max_memory": 192,
+      "memory_slots": 4,
+      "color": "Black / Silver"
+    },
+    {
+      "name": "Asus PRIME B760-PLUS",
+      "price": 129.99,
+      "socket": "LGA1700",
+      "form_factor": "ATX",
+      "max_memory": 192,
+      "memory_slots": 4,
+      "color": "Black / Silver"
+    },
+    {
+      "name": "Gigabyte B550M K",
+      "price": 94.99,
+      "socket": "AM4",
+      "form_factor": "Micro ATX",
+      "max_memory": 128,
+      "memory_slots": 4,
+      "color": "Brown / Silver"
+    },
+    {
+      "name": "MSI MAG Z790 TOMAHAWK WIFI",
+      "price": 209.99,
+      "socket": "LGA1700",
+      "form_factor": "ATX",
+      "max_memory": 192,
+      "memory_slots": 4,
+      "color": "Black"
+    }
+  ],
+
+  "powersupply" : [
+    {
+      "name": "Corsair RM750e (2023)",
+      "price": 99.99,
+      "type": "ATX",
+      "efficiency": "gold",
+      "wattage": 750,
+      "modular": "Full",
+      "color": "Black"
+    },
+    {
+      "name": "Corsair RM850e (2023)",
+      "price": 119.99,
+      "type": "ATX",
+      "efficiency": "gold",
+      "wattage": 850,
+      "modular": "Full",
+      "color": "Black"
+    },
+    {
+      "name": "Corsair RM1000e (2023)",
+      "price": 159.99,
+      "type": "ATX",
+      "efficiency": "gold",
+      "wattage": 1000,
+      "modular": "Full",
+      "color": "Black"
+    },
+    {
+      "name": "Corsair RM650 (2023)",
+      "price": 89.99,
+      "type": "ATX",
+      "efficiency": "gold",
+      "wattage": 650,
+      "modular": "Full",
+      "color": "Black"
+    },
+    {
+      "name": "MSI MAG A650BN",
+      "price": 59,
+      "type": "ATX",
+      "efficiency": "bronze",
+      "wattage": 650,
+      "modular": false,
+      "color": "Black"
+    },
+    {
+      "name": "MSI MAG A850GL PCIE5",
+      "price": 89.99,
+      "type": "ATX",
+      "efficiency": "gold",
+      "wattage": 850,
+      "modular": "Full",
+      "color": "Black"
+    },
+    {
+      "name": "Corsair CX650M (2021)",
+      "price": 79.99,
+      "type": "ATX",
+      "efficiency": "bronze",
+      "wattage": 650,
+      "modular": "Semi",
+      "color": "Black"
+    },
+    {
+      "name": "MSI MAG A550BN",
+      "price": 49,
+      "type": "ATX",
+      "efficiency": "bronze",
+      "wattage": 550,
+      "modular": false,
+      "color": "Black"
+    },
+    {
+      "name": "Corsair SF750",
+      "price": 184.99,
+      "type": "SFX",
+      "efficiency": "platinum",
+      "wattage": 750,
+      "modular": "Full",
+      "color": ""
+    },
+    {
+      "name": "Corsair RM850",
+      "price": 124.99,
+      "type": "ATX",
+      "efficiency": "gold",
+      "wattage": 850,
+      "modular": "Full",
+      "color": "White / Black"
+    },
+    {
+      "name": "Corsair RM850x (2021)",
+      "price": 149.99,
+      "type": "ATX",
+      "efficiency": "gold",
+      "wattage": 850,
+      "modular": "Full",
+      "color": "Black"
+    },
+    {
+      "name": "Thermaltake Smart",
+      "price": 39.06,
+      "type": "ATX",
+      "efficiency": "plus",
+      "wattage": 500,
+      "modular": false,
+      "color": ""
+    },
+    {
+      "name": "Cooler Master MWE Gold 850 - V2",
+      "price": 89.99,
+      "type": "ATX",
+      "efficiency": "gold",
+      "wattage": 850,
+      "modular": "Full",
+      "color": "Black"
+    },
+    {
+      "name": "Corsair RM1000x (2021)",
+      "price": 159.99,
+      "type": "ATX",
+      "efficiency": "gold",
+      "wattage": 1000,
+      "modular": "Full",
+      "color": "Black"
+    },
+    {
+      "name": "Asus ROG THOR 1600T Gaming",
+      "price": 699.99,
+      "type": "ATX",
+      "efficiency": "titanium",
+      "wattage": 1600,
+      "modular": "Full",
+      "color": "Silver / Black"
+    },
+    {
+      "name": "Thermaltake Smart",
+      "price": 40.99,
+      "type": "ATX",
+      "efficiency": "plus",
+      "wattage": 600,
+      "modular": false,
+      "color": ""
+    },
+    {
+      "name": "MSI MAG A750GL PCIE5",
+      "price": 89,
+      "type": "ATX",
+      "efficiency": "gold",
+      "wattage": 750,
+      "modular": "Full",
+      "color": "Black"
+    },
+    {
+      "name": "MSI MAG A650GL",
+      "price": 79.98,
+      "type": "ATX",
+      "efficiency": "gold",
+      "wattage": 650,
+      "modular": "Full",
+      "color": "Black"
+    },
+    {
+      "name": "Corsair SF850L",
+      "price": 144.05,
+      "type": "SFX",
+      "efficiency": "gold",
+      "wattage": 850,
+      "modular": "Full",
+      "color": "Black"
+    },
+    {
+      "name": "SeaSonic FOCUS GX",
+      "price": 74.99,
+      "type": "ATX",
+      "efficiency": "gold",
+      "wattage": 750,
+      "modular": "Full",
+      "color": "Black"
+    },
+    {
+      "name": "Apevia Galaxy",
+      "price": 54.99,
+      "type": "ATX",
+      "efficiency": "gold",
+      "wattage": 650,
+      "modular": "Semi",
+      "color": "Black"
+    },
+    {
+      "name": "Corsair HX1500i (2023)",
+      "price": 359.99,
+      "type": "ATX",
+      "efficiency": "platinum",
+      "wattage": 1500,
+      "modular": "Full",
+      "color": "Black"
+    },
+    {
+      "name": "SeaSonic FOCUS Plus 650 Gold",
+      "price": 126.47,
+      "type": "ATX",
+      "efficiency": "gold",
+      "wattage": 650,
+      "modular": "Full",
+      "color": ""
+    },
+    {
+      "name": "Corsair RM750",
+      "price": 109.99,
+      "type": "ATX",
+      "efficiency": "gold",
+      "wattage": 750,
+      "modular": "Full",
+      "color": "White / Black"
+    },
+    {
+      "name": "be quiet! Pure Power 12 M",
+      "price": 89.9,
+      "type": "ATX",
+      "efficiency": "gold",
+      "wattage": 750,
+      "modular": "Full",
+      "color": "Black"
+    },
+    {
+      "name": "be quiet! Pure Power 12 M",
+      "price": 99.9,
+      "type": "ATX",
+      "efficiency": "gold",
+      "wattage": 850,
+      "modular": "Full",
+      "color": "Black"
+    },
+    {
+      "name": "Gigabyte UD750GM",
+      "price": 92.12,
+      "type": "ATX",
+      "efficiency": "gold",
+      "wattage": 750,
+      "modular": "Full",
+      "color": "Black"
+    },
+    {
+      "name": "Corsair RM750x (2021)",
+      "price": 99.99,
+      "type": "ATX",
+      "efficiency": "gold",
+      "wattage": 750,
+      "modular": "Full",
+      "color": "Black"
+    },
+    {
+      "name": "Corsair CX750M (2021)",
+      "price": 89.95,
+      "type": "ATX",
+      "efficiency": "bronze",
+      "wattage": 750,
+      "modular": "Semi",
+      "color": "Black"
+    },
+    {
+      "name": "Thermaltake Toughpower GF A3 Snow",
+      "price": 119.99,
+      "type": "ATX",
+      "efficiency": "gold",
+      "wattage": 850,
+      "modular": "Full",
+      "color": "White"
+    }
+  ]
+
+
+}

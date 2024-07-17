@@ -1,0 +1,272 @@
+[
+  {
+    "name": "MSI B650 GAMING PLUS WIFI",
+    "price": 169.99,
+    "socket": "AM5",
+    "form_factor": "ATX",
+    "max_memory": 192,
+    "memory_slots": 4,
+    "color": "Black"
+  },
+  {
+    "name": "Asus ROG STRIX B650-A GAMING WIFI",
+    "price": 199.99,
+    "socket": "AM5",
+    "form_factor": "ATX",
+    "max_memory": 192,
+    "memory_slots": 4,
+    "color": "Black / Silver"
+  },
+  {
+    "name": "MSI B760 GAMING PLUS WIFI",
+    "price": 159.99,
+    "socket": "LGA1700",
+    "form_factor": "ATX",
+    "max_memory": 192,
+    "memory_slots": 4,
+    "color": "Black / Silver"
+  },
+  {
+    "name": "MSI PRO Z790-A MAX WIFI",
+    "price": 239.99,
+    "socket": "LGA1700",
+    "form_factor": "ATX",
+    "max_memory": 192,
+    "memory_slots": 4,
+    "color": "Silver / Black"
+  },
+  {
+    "name": "MSI B550 GAMING GEN3",
+    "price": 99.99,
+    "socket": "AM4",
+    "form_factor": "ATX",
+    "max_memory": 128,
+    "memory_slots": 4,
+    "color": "Black"
+  },
+  {
+    "name": "MSI B450M-A PRO MAX II",
+    "price": 69.98,
+    "socket": "AM4",
+    "form_factor": "Micro ATX",
+    "max_memory": 64,
+    "memory_slots": 2,
+    "color": "Black"
+  },
+  {
+    "name": "MSI MAG B650 TOMAHAWK WIFI",
+    "price": 199.99,
+    "socket": "AM5",
+    "form_factor": "ATX",
+    "max_memory": 192,
+    "memory_slots": 4,
+    "color": "Black"
+  },
+  {
+    "name": "Gigabyte B650 GAMING X AX",
+    "price": 179.99,
+    "socket": "AM5",
+    "form_factor": "ATX",
+    "max_memory": 192,
+    "memory_slots": 4,
+    "color": "Black / Gray"
+  },
+  {
+    "name": "Asus PRIME B550M-A WIFI II",
+    "price": 104.99,
+    "socket": "AM4",
+    "form_factor": "Micro ATX",
+    "max_memory": 128,
+    "memory_slots": 4,
+    "color": "Blue / Silver"
+  },
+  {
+    "name": "ASRock B650M Pro RS WiFi",
+    "price": 149.99,
+    "socket": "AM5",
+    "form_factor": "Micro ATX",
+    "max_memory": 192,
+    "memory_slots": 4,
+    "color": "Black / Silver"
+  },
+  {
+    "name": "ASRock B660M Pro RS",
+    "price": 94.99,
+    "socket": "LGA1700",
+    "form_factor": "Micro ATX",
+    "max_memory": 128,
+    "memory_slots": 4,
+    "color": "Gray / Black"
+  },
+  {
+    "name": "MSI PRO B650M-P",
+    "price": 119.99,
+    "socket": "AM5",
+    "form_factor": "Micro ATX",
+    "max_memory": 192,
+    "memory_slots": 4,
+    "color": "Black / Silver"
+  },
+  {
+    "name": "Asus TUF GAMING Z790-PRO WIFI",
+    "price": 279.99,
+    "socket": "LGA1700",
+    "form_factor": "ATX",
+    "max_memory": 192,
+    "memory_slots": 4,
+    "color": "Black"
+  },
+  {
+    "name": "MSI MAG X670E TOMAHAWK WIFI",
+    "price": 259.99,
+    "socket": "AM5",
+    "form_factor": "ATX",
+    "max_memory": 192,
+    "memory_slots": 4,
+    "color": "Black"
+  },
+  {
+    "name": "MSI PRO Z790-P WIFI",
+    "price": 199.99,
+    "socket": "LGA1700",
+    "form_factor": "ATX",
+    "max_memory": 192,
+    "memory_slots": 4,
+    "color": "Black / Silver"
+  },
+  {
+    "name": "MSI MAG B550 TOMAHAWK MAX WIFI",
+    "price": 159.99,
+    "socket": "AM4",
+    "form_factor": "ATX",
+    "max_memory": 128,
+    "memory_slots": 4,
+    "color": "Silver / Black"
+  },
+  {
+    "name": "Asus ROG STRIX B550-F GAMING WIFI II",
+    "price": 189.99,
+    "socket": "AM4",
+    "form_factor": "ATX",
+    "max_memory": 128,
+    "memory_slots": 4,
+    "color": "Black / Red"
+  },
+  {
+    "name": "MSI PRO B650M-A WIFI",
+    "price": 156.99,
+    "socket": "AM5",
+    "form_factor": "Micro ATX",
+    "max_memory": 192,
+    "memory_slots": 4,
+    "color": "Black"
+  },
+  {
+    "name": "ASRock B650I Lightning Wifi",
+    "price": 199.99,
+    "socket": "AM5",
+    "form_factor": "Mini ITX",
+    "max_memory": 96,
+    "memory_slots": 2,
+    "color": "Black"
+  },
+  {
+    "name": "MSI B550M PRO-VDH WIFI",
+    "price": 99.99,
+    "socket": "AM4",
+    "form_factor": "Micro ATX",
+    "max_memory": 128,
+    "memory_slots": 4,
+    "color": "Black"
+  },
+  {
+    "name": "MSI PRO B650-S WIFI",
+    "price": 139.99,
+    "socket": "AM5",
+    "form_factor": "ATX",
+    "max_memory": 192,
+    "memory_slots": 4,
+    "color": "Black"
+  },
+  {
+    "name": "Gigabyte B650 EAGLE AX",
+    "price": 169.99,
+    "socket": "AM5",
+    "form_factor": "ATX",
+    "max_memory": 192,
+    "memory_slots": 4,
+    "color": "Gray / Black"
+  },
+  {
+    "name": "Asus ROG STRIX B650E-F GAMING WIFI",
+    "price": 259.99,
+    "socket": "AM5",
+    "form_factor": "ATX",
+    "max_memory": 192,
+    "memory_slots": 4,
+    "color": "Black"
+  },
+  {
+    "name": "Gigabyte B650 AORUS ELITE AX ICE",
+    "price": 229.99,
+    "socket": "AM5",
+    "form_factor": "ATX",
+    "max_memory": 192,
+    "memory_slots": 4,
+    "color": "Silver"
+  },
+  {
+    "name": "Asus ROG MAXIMUS Z790 DARK HERO",
+    "price": 579.99,
+    "socket": "LGA1700",
+    "form_factor": "ATX",
+    "max_memory": 192,
+    "memory_slots": 4,
+    "color": "Black"
+  },
+  {
+    "name": "Asus Prime B450M-A II",
+    "price": 69.98,
+    "socket": "AM4",
+    "form_factor": "Micro ATX",
+    "max_memory": 128,
+    "memory_slots": 4,
+    "color": ""
+  },
+  {
+    "name": "Gigabyte B650 AORUS ELITE AX",
+    "price": 199.99,
+    "socket": "AM5",
+    "form_factor": "ATX",
+    "max_memory": 192,
+    "memory_slots": 4,
+    "color": "Black / Silver"
+  },
+  {
+    "name": "Asus PRIME B760-PLUS",
+    "price": 129.99,
+    "socket": "LGA1700",
+    "form_factor": "ATX",
+    "max_memory": 192,
+    "memory_slots": 4,
+    "color": "Black / Silver"
+  },
+  {
+    "name": "Gigabyte B550M K",
+    "price": 94.99,
+    "socket": "AM4",
+    "form_factor": "Micro ATX",
+    "max_memory": 128,
+    "memory_slots": 4,
+    "color": "Brown / Silver"
+  },
+  {
+    "name": "MSI MAG Z790 TOMAHAWK WIFI",
+    "price": 209.99,
+    "socket": "LGA1700",
+    "form_factor": "ATX",
+    "max_memory": 192,
+    "memory_slots": 4,
+    "color": "Black"
+  }
+]

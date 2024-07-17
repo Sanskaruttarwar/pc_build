@@ -1,0 +1,58 @@
+
+
+.text{
+    color: white;
+    font-weight: 100;
+  }
+
+  .btn{
+  color: azure;
+  }
+
+  .btn.btn1:hover{
+    border: 1px solid white;
+    margin-left: 0px;
+    box-shadow: white 0 0 5px 2px;
+}
+
+.display{
+    background-color:rgb(49, 47, 47);
+}
+
+.card-header{
+    background-color: rgb(49, 47, 47);
+    color: white;
+    font-weight: 100;
+    border: none;
+}
+
+.card-body{
+    background-color: rgb(49, 47, 47);
+    color: white;
+    font-weight: 100;
+}
+
+.card{
+    /* border-color:  rgb(49, 47, 47); */
+    border: none;
+}
+
+.card.width:hover{
+    border: 1px solid white;
+    border-bottom-left-radius: 6px; 
+    border-bottom-right-radius: 6px;    
+    box-shadow: rgb(235, 232, 232) 0 0 5px 2px;
+    overflow: hidden; 
+}
+
+.custom-card {
+    border-bottom: none;
+  }
+  
+  .custom-card .card-body {
+    border-top-right-radius: 0;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0; 
+    border-bottom-right-radius: 0; 
+    overflow: hidden; 
+  }

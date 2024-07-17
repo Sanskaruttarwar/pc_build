@@ -1,0 +1,96 @@
+
+
+.text{
+    color: white;
+    font-weight: 100;
+  }
+
+  .btn{
+  color: azure;
+  }
+
+  .btn.btn1:hover{
+    border: 1px solid white;
+    margin-left: 0px;
+    box-shadow: white 0 0 5px 2px;
+}
+
+.display{
+    margin-top: 30px;
+    background-color:rgb(49, 47, 47);
+}
+
+.card-header{
+    background-color: rgb(49, 47, 47);
+    color: white;
+    font-weight: 100;
+    border: none;
+}
+
+.card-body{
+    background-color: rgb(49, 47, 47);
+    color: white;
+    font-weight: 100;
+}
+
+.card{
+    /* border-color:  rgb(49, 47, 47); */
+    border: none;
+}
+
+.card.width:hover{
+    border: 1px solid white;
+    border-bottom-left-radius: 6px; 
+    border-bottom-right-radius: 6px;    
+    box-shadow: rgb(235, 232, 232) 0 0 5px 2px;
+    overflow: hidden; 
+}
+
+.custom-card {
+    border-bottom: none;
+  }
+  
+  .custom-card .card-body {
+    border-top-right-radius: 0;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0; 
+    border-bottom-right-radius: 0; 
+    overflow: hidden; 
+  }
+
+
+
+
+
+
+
+  /* pagination */
+
+  .custom-pagination .pagination {
+    background-color: rgb(49, 47, 47); /* Set the background color */
+  }
+  
+  .custom-pagination .page-link {
+    color: white; /* Set the text color */
+    background-color: rgb(49, 47, 47); /* Match background color */
+    border: 1px solid #6c757d; /* Optional: set the border color */
+  }
+  
+  .custom-pagination .page-link:hover {
+    color: #ffffff; /* Text color on hover */
+    background-color: #565656; /* Background color on hover */
+    border-color: #565656; /* Border color on hover */
+  }
+  
+  .custom-pagination .page-item.active .page-link {
+    z-index: 1;
+    color: #fff; /* Text color for active item */
+    background-color: #495057; /* Background color for active item */
+    border-color: #495057; /* Border color for active item */
+  }
+  
+  .custom-pagination .page-item.disabled .page-link {
+    color: #6c757d; /* Text color for disabled item */
+    background-color: rgb(49, 47, 47); /* Match background color */
+    border-color: #6c757d; /* Border color for disabled item */
+  }

@@ -1,0 +1,272 @@
+[
+  {
+    "name": "Apricorn Aegis Fortress L3",
+    "price": 12999,
+    "type": "Portable",
+    "interface": "USB Type-A 3.2 Gen 1, USB Type-C 3.2 Gen 1",
+    "capacity": 20000,
+    "price_per_gb": 0.65,
+    "color": "Black"
+  },
+  {
+    "name": "Western Digital My Book Duo",
+    "price": 1199.99,
+    "type": "Desktop",
+    "interface": "USB Type-A 3.2 Gen 1, USB Type-C 3.2 Gen 1",
+    "capacity": 44000,
+    "price_per_gb": 0.027,
+    "color": "Black"
+  },
+  {
+    "name": "Apricorn Padlock DT FIPS",
+    "price": 661.99,
+    "type": "Desktop",
+    "interface": "USB Type-A 3.2 Gen 1",
+    "capacity": 10000,
+    "price_per_gb": 0.066,
+    "color": "Black"
+  },
+  {
+    "name": "Apricorn Padlock DT FIPS",
+    "price": 1172.46,
+    "type": "Desktop",
+    "interface": "USB Type-A 3.2 Gen 1",
+    "capacity": 22000,
+    "price_per_gb": 0.053,
+    "color": "Black"
+  },
+  {
+    "name": "Western Digital ELEMENTS",
+    "price": 64.98,
+    "type": "Portable",
+    "interface": "USB Type-A 3.2 Gen 1",
+    "capacity": 1000,
+    "price_per_gb": 0.065,
+    "color": ""
+  },
+  {
+    "name": "Western Digital My Book Duo",
+    "price": 1049.99,
+    "type": "Desktop",
+    "interface": "USB Type-A 3.2 Gen 1, USB Type-C 3.2 Gen 1",
+    "capacity": 36000,
+    "price_per_gb": 0.029,
+    "color": "Black"
+  },
+  {
+    "name": "Apricorn Aegis Fortress",
+    "price": 383.88,
+    "type": "Portable",
+    "interface": "USB Type-A 3.2 Gen 1",
+    "capacity": 1000,
+    "price_per_gb": 0.384,
+    "color": "Black"
+  },
+  {
+    "name": "Western Digital WD_BLACK P10",
+    "price": 134.85,
+    "type": "Portable",
+    "interface": "USB Type-A 3.2 Gen 1",
+    "capacity": 5000,
+    "price_per_gb": 0.027,
+    "color": "Black"
+  },
+  {
+    "name": "Samsung T5 EVO Portable",
+    "price": 599.99,
+    "type": "Portable",
+    "interface": "USB Type-C 3.2 Gen 1",
+    "capacity": 8000,
+    "price_per_gb": 0.075,
+    "color": "Black"
+  },
+  {
+    "name": "Samsung T9 Portable",
+    "price": 359.99,
+    "type": "Portable",
+    "interface": "USB Type-C 3.2 Gen 2x2",
+    "capacity": 4000,
+    "price_per_gb": 0.09,
+    "color": "Black"
+  },
+  {
+    "name": "Sabrent Rocket XTRM-Q",
+    "price": "",
+    "type": "Desktop",
+    "interface": "USB Type-C 3.2 Gen 2",
+    "capacity": 16000,
+    "price_per_gb": "",
+    "color": ""
+  },
+  {
+    "name": "Western Digital My Passport",
+    "price": 106.64,
+    "type": "Portable",
+    "interface": "USB Type-A 3.2 Gen 1",
+    "capacity": 4000,
+    "price_per_gb": 0.027,
+    "color": "Black"
+  },
+  {
+    "name": "Western Digital ELEMENTS",
+    "price": 159.99,
+    "type": "Desktop",
+    "interface": "USB Type-A 3.2 Gen 1",
+    "capacity": 8000,
+    "price_per_gb": 0.02,
+    "color": "Black"
+  },
+  {
+    "name": "Seagate One Touch",
+    "price": 85.98,
+    "type": "Portable",
+    "interface": "USB Type-A 3.2 Gen 1",
+    "capacity": 2000,
+    "price_per_gb": 0.043,
+    "color": "Black"
+  },
+  {
+    "name": "Western Digital easystore",
+    "price": 279.99,
+    "type": "Desktop",
+    "interface": "USB Type-A 3.2 Gen 1",
+    "capacity": 14000,
+    "price_per_gb": 0.02,
+    "color": "Black"
+  },
+  {
+    "name": "Verbatim Vx460",
+    "price": 33.31,
+    "type": "Portable",
+    "interface": "USB Type-A 3.2 Gen 1",
+    "capacity": 128,
+    "price_per_gb": 0.26,
+    "color": "Black"
+  },
+  {
+    "name": "Samsung T7 Shield",
+    "price": 319.99,
+    "type": "Portable",
+    "interface": "USB Type-C 3.2 Gen 2",
+    "capacity": 4000,
+    "price_per_gb": 0.08,
+    "color": "Black"
+  },
+  {
+    "name": "Apricorn Aegis Fortress",
+    "price": 2769,
+    "type": "Portable",
+    "interface": "USB Type-A 3.2 Gen 1",
+    "capacity": 8000,
+    "price_per_gb": 0.346,
+    "color": "Black"
+  },
+  {
+    "name": "Western Digital My Passport",
+    "price": 69.75,
+    "type": "Portable",
+    "interface": "USB Type-A 3.2 Gen 1",
+    "capacity": 2000,
+    "price_per_gb": 0.035,
+    "color": "Black"
+  },
+  {
+    "name": "SanDisk Extreme Portable V2",
+    "price": 299.99,
+    "type": "Portable",
+    "interface": "USB Type-C 3.2 Gen 1",
+    "capacity": 4000,
+    "price_per_gb": 0.075,
+    "color": "Black / Orange"
+  },
+  {
+    "name": "Seagate One Touch",
+    "price": 499.99,
+    "type": "Desktop",
+    "interface": "USB Type-A 3.2 Gen 1",
+    "capacity": 18000,
+    "price_per_gb": 0.028,
+    "color": "Black"
+  },
+  {
+    "name": "Western Digital WD_BLACK P10",
+    "price": 80,
+    "type": "Portable",
+    "interface": "USB Type-A 3.2 Gen 1",
+    "capacity": 2000,
+    "price_per_gb": 0.04,
+    "color": "Black"
+  },
+  {
+    "name": "Western Digital My Passport",
+    "price": 121.19,
+    "type": "Portable",
+    "interface": "USB Type-A 3.2 Gen 1",
+    "capacity": 5000,
+    "price_per_gb": 0.024,
+    "color": "Black"
+  },
+  {
+    "name": "Crucial X10 Pro",
+    "price": 284.99,
+    "type": "Portable",
+    "interface": "USB Type-C 3.2 Gen 2x2",
+    "capacity": 4000,
+    "price_per_gb": 0.071,
+    "color": "Black"
+  },
+  {
+    "name": "Western Digital My Passport",
+    "price": 59.75,
+    "type": "Portable",
+    "interface": "USB Type-A 3.2 Gen 1",
+    "capacity": 1000,
+    "price_per_gb": 0.06,
+    "color": "Black"
+  },
+  {
+    "name": "SanDisk Extreme Portable V2",
+    "price": 109.99,
+    "type": "Portable",
+    "interface": "USB Type-C 3.2 Gen 1",
+    "capacity": 1000,
+    "price_per_gb": 0.11,
+    "color": "Black / Orange"
+  },
+  {
+    "name": "Western Digital easystore",
+    "price": 329.99,
+    "type": "Desktop",
+    "interface": "USB Type-A 2.0, USB Type-A 3.2 Gen 1",
+    "capacity": 18000,
+    "price_per_gb": 0.018,
+    "color": "Black"
+  },
+  {
+    "name": "Seagate Backup Plus Portable",
+    "price": 93,
+    "type": "Portable",
+    "interface": "USB Type-A 3.2 Gen 1",
+    "capacity": 4000,
+    "price_per_gb": 0.023,
+    "color": "Black"
+  },
+  {
+    "name": "Seagate Backup Plus Slim",
+    "price": "",
+    "type": "Portable",
+    "interface": "USB Type-A 3.2 Gen 1",
+    "capacity": 1000,
+    "price_per_gb": "",
+    "color": "Black"
+  },
+  {
+    "name": "Seagate One Touch",
+    "price": 54.99,
+    "type": "Portable",
+    "interface": "USB Type-A 3.2 Gen 1",
+    "capacity": 1000,
+    "price_per_gb": 0.055,
+    "color": "Black"
+  }
+]

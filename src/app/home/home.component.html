@@ -1,0 +1,120 @@
+
+
+  <div class="card-full-body">
+
+    <div class="card fixed-card card1">
+      <h5 class="card-header"><span class="text">Grand Total:</span></h5>
+      <div class="card-body">
+        <div *ngIf="selectedCpu">
+          <h5 class="card-title text">{{ totalPrice | currency: 'INR' }}</h5>
+        </div>
+        <button (click)="resetTotal()" class="btn button btn1 mar">Reset Total</button>
+      </div>
+    </div>
+
+    <div class="card fixed-card">
+      <h5 class="card-header"><span class="text">Processor</span></h5>
+      <div class="card-body">
+        <div *ngIf="selectedCpu">
+          <h5 class="card-title text">{{selectedCpu.name}}</h5>
+          <p class="card-text text">{{ selectedCpu.price*100 | currency:'INR' }}</p>
+        </div>
+        <button [routerLink]="'cpu'" class="btn btn1">Select</button>
+      </div>
+    </div>
+
+
+    <div class="card fixed-card">
+      <h5 class="card-header"><span class="text">Motherboard</span></h5>
+      <div class="card-body">
+        <div *ngIf="motherboard">
+          <h5 class="card-title text">{{ motherboard.name }}</h5>
+          <p class="card-text text">{{ motherboard.price*100 | currency:'INR' }}</p>
+        </div>
+        <button [routerLink]="'motherboard'" class="btn btn1">Select</button>
+      </div>
+    </div>
+
+
+
+    <div class="card fixed-card">
+      <h5 class="card-header"><span class="text">Power Supply</span></h5>
+      <div class="card-body">
+        <div *ngIf="powersupply">
+          <h5 class="card-title text">{{ powersupply.name }}</h5>
+          <p class="card-text text">{{ powersupply.price*100 | currency:'INR' }}</p>
+        </div>
+        <button [routerLink]="'power'" class="btn btn1">Select</button>
+      </div>
+    </div>
+
+
+
+    <div class="card fixed-card">
+      <h5 class="card-header"><span class="text">Memory</span></h5>
+      <div class="card-body">
+        <div *ngIf="memory">
+          <h5 class="card-title text">{{ memory.name }}</h5>
+          <p class="card-text text">{{ memory.price*100 | currency:'INR' }}</p>
+        </div>
+        <button [routerLink]="'memory'" class="btn btn1">Select</button>
+      </div>
+    </div>
+
+
+
+    <div class="card fixed-card">
+      <h5 class="card-header"><span class="text">External Hard Drive</span></h5>
+      <div class="card-body">
+        <div *ngIf="external">
+          <h5 class="card-title text">{{ external.name }}</h5>
+          <p class="card-text text">{{ external.price*100 | currency:'INR' }}</p>
+        </div>
+        <button [routerLink]="'external'" class="btn btn1">Select</button>
+      </div>
+    </div>
+
+
+
+    <div class="card fixed-card">
+      <h5 class="card-header"><span class="text">Cpu Cooler</span></h5>
+      <div class="card-body">
+        <div *ngIf="cpuCooler">
+          <h5 class="card-title text">{{ cpuCooler.name }}</h5>
+          <p class="card-text text">{{cpuCooler.price*100 | currency:'INR' }}</p>
+        </div>
+        <button [routerLink]="'cpucooler'" class="btn btn1">Select</button>
+      </div>
+    </div>
+
+
+
+    <div class="card fixed-card">
+      <h5 class="card-header"><span class="text">Case Fan</span></h5>
+      <div class="card-body">
+        <div *ngIf="caseFan">
+          <h5 class="card-title text">{{ caseFan.name }}</h5>
+          <p class="card-text text">{{ caseFan.price*100 | currency:'INR' }}</p>
+        </div>
+        <button [routerLink]="'casefan'" class="btn btn1">Select</button>
+      </div>
+    </div>
+
+
+
+    <div class="card fixed-card">
+      <h5 class="card-header"> <span class="text">Case</span></h5>
+      <div class="card-body">
+        <div *ngIf="case">
+          <h5 class="card-title text">{{ case.name }}</h5>
+          <p class="card-text text">{{ case.price*100 | currency:'INR' }}</p>
+        </div>
+        <button [routerLink]="'case'" class="btn btn1">Select</button>
+      </div>
+    </div>
+
+  </div>
+
+
+
+
